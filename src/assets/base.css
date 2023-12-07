@@ -4,5 +4,5 @@
 
 @font-face {
   font-family: 'pingfang';
-  src: url('../static/pingfangsc-regular.otf');
+  src: url('./pingfangsc-regular.otf');
 }
