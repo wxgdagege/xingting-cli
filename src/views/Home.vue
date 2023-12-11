@@ -1,4 +1,11 @@
 <script setup></script>
 <template>
-  <div>12456</div>
+  <div class="grid grid-cols-2 gap-6">
+    <div class="shadow-sm bg-white rounded-lg">shadow-sm</div>
+    <div class="shadow bg-white rounded-lg">shadow</div>
+    <div class="shadow-md bg-white rounded-lg">shadow-md</div>
+    <div class="shadow-lg bg-white rounded-lg">shadow-lg</div>
+    <div class="shadow-xl bg-white rounded-lg">shadow-xl</div>
+    <div class="shadow-2xl bg-white rounded-lg">shadow-2xl</div>
+  </div>
 </template>
